@@ -10,7 +10,7 @@
 
 Tactile UX revolves around five different degrees of interactivity that apply to all visual elements. The core idea is to communicate the degree of
 interactivity of any element at all times in a [clear](/clarity-and-consistency.md#clarity) and [consistent](/clarity-and-consistency.md#consistency) manner
-to obtain a _tactile user experience_.
+to obtain a _tactile user experience_ (i.e. the degree of interactivity of all elements **MUST** be communicated clearly and consistently at all times).
 
 Here are the five degrees of interactivity:
 
