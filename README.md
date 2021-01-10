@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/logo.svg" width="256"/>
+<img src="/logo.svg" width="360"/>
 
 # Tactile UX
 A guide for designing tactile user experiences
