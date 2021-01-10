@@ -56,3 +56,45 @@ The main interaction of an input is for example keyboard input, so the input is 
 This denotes elements that are actively trying to grab user's attention to interact with them. This includes hovered buttons (optional), inputs whose
 value need correction before the user can proceed, submit buttons when input data is complete and valid, etc.
 
+<br><br>
+
+# Examples
+
+## Buttons
+
+👉 A button **SHOULD** be _Interactive_ state.
+
+👉 A disabled button **SHOULD** be in _Disabled_ state.
+
+👉 A button, while being pressed, **SHOULD** be in _Standby_ state.
+
+Explanation: A button that is being pressed does not have any further possible interaction, but releasing the mouse key (or user finger) will cause
+it to have more interactions again.
+
+👉 A button that is hovered **MAY** be in _Reaching Out_ state.
+
+👉 A button that will take the user to the next application stage **MAY** be in _Reaching Out_ state.
+
+<br>
+
+## Inputs
+
+👉 An input **SHOULD** be in _Standby_ state.
+
+Explanation: Inputs have _focus_/_blur_ interactions available at all times. However this is not the main interaction of the input. The main interaction,
+for example, is done through keyboard input, so the input element is _Interactive_ only when keyboard input directly interacts with it.
+
+👉 A focused input **SHOULD** be in _Interactive_ state.
+
+👉 An input that requires user attention (for example due to validation error) **SHOULD** be in _Reaching Out_ state.
+
+<br>
+
+## Toggle Buttons / Tab Bars
+
+Toggle buttons are a series of buttons for choosing a single value out of multiple options, each button corresponding to choice of one option.
+
+👉 Each button **SHOULD** be in _Interactive_ state.
+
+👉 The button corresponding to the currently selected value **SHOULD** be in either _Standby_ or _Disabled_ states, based on whether the represented
+value is significant enough to be considered part of program state or not.
