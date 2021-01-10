@@ -29,7 +29,16 @@ Tactile UX aims to increase usability of interfaces with a combination of intera
 - [Linearity](/linearity.md)
 - [Dos and Don'ts](/dos-and-donts.md)
 
-<br>
+<br><br>
 
 > 👉 In this document, terms **MUST**, **SHALL**, **RECOMMENDED**, **MAY**, etc, when appear in caps and bold, are used per [this RFC](https://www.ietf.org/rfc/rfc2119.txt).
+
+<br><br>
+
+<div align="center">
+
+**UP NEXT:** \
+[Degrees of Interactivity](/degrees-of-interactivity.md)
+
+</div>
 
