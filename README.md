@@ -27,7 +27,6 @@ Tactile UX aims to increase usability of interfaces with a combination of intera
 - [Degrees of Interactivity](/degrees-of-interactivity.md)
 - [Clarity & Consistency](/clarity-and-consistency.md)
 - [Linearity](/linearity.md)
-- [Example Solution Template](/example-solution-template.md)
 - [Dos and Don'ts](/dos-and-donts.md)
 
 <br>
