@@ -100,6 +100,7 @@ Toggle buttons are a series of buttons for choosing a single value out of multip
 value is significant enough to be considered part of program state or not.
 
 <br><br>
+<br><br>
 
 <div align="center">
 
