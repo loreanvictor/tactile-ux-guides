@@ -101,11 +101,7 @@ value is significant enough to be considered part of program state or not.
 
 <br><br>
 
-<div align="center">
-  
-**UP NEXT**:\
-[Clarity & Consistency](/clarity-and-consistency.md)
+### 📖 [NEXT: Clarity & Consistency](/clarity-and-consistency.md)
 
 
-</div>
 
