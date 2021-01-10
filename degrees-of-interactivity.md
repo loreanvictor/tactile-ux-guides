@@ -98,3 +98,14 @@ Toggle buttons are a series of buttons for choosing a single value out of multip
 
 👉 The button corresponding to the currently selected value **SHOULD** be in either _Standby_ or _Disabled_ states, based on whether the represented
 value is significant enough to be considered part of program state or not.
+
+<br><br>
+
+<div align="center">
+  
+**UP NEXT**:\
+[Clarity & Consistency](/clarity-and-consistency.md)
+
+
+</div>
+
