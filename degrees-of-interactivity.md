@@ -60,9 +60,6 @@ value need correction before the user can proceed, submit buttons when input dat
 
 <div align="center">
   <img src="/figures/degrees-of-interactivity.svg" width="640"/>
-  <small>
-    In this example, border color is used as interactivity visual cue, with blue background indicating <i>Reaching Out</i> state.
-  </small>
 </div>
 
 <br><br>
