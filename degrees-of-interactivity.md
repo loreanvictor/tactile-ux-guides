@@ -14,6 +14,12 @@ to obtain a _tactile user experience_ (i.e. the degree of interactivity of all e
 
 Here are the five degrees of interactivity:
 
+
+<div align="center">
+  <img src="/figures/degrees-of-interactivity.svg" width="640"/>
+</div>
+
+
 <br>
 
 ### Not Interactive
@@ -74,6 +80,16 @@ it to have more interactions again.
 👉 A button that is hovered **MAY** be in _Reaching Out_ state.
 
 👉 A button that will take the user to the next application stage **MAY** be in _Reaching Out_ state.
+
+<br>
+
+
+<div align="center">
+  <img src="/figures/buttons-example.svg" width="640"/>
+  <br>
+  In this example magnification is used as the visual cue for interactivity.
+</div>
+
 
 <br>
 
