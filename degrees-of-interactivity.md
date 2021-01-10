@@ -87,7 +87,9 @@ it to have more interactions again.
 <div align="center">
   <img src="/figures/buttons-example.svg" width="640"/>
   <br>
-  In this example magnification is used as the visual cue for interactivity.
+  <sub>
+    In this example magnification is used as the visual cue for interactivity.
+  </sub>
 </div>
 
 
@@ -109,7 +111,9 @@ for example, is done through keyboard input, so the input element is _Interactiv
 <div align="center">
   <img src="/figures/inputs-example.svg" width="512"/>
   <br>
-  In this example border color (and shadow) is used as visual cue for interactivity.
+  <sub>
+    In this example border color (and shadow) is used as visual cue for interactivity.
+  </sub>
 </div>
 
 
@@ -129,7 +133,9 @@ value is significant enough to be considered part of program state or not.
 <div align="center">
   <img src="/figures/toggle-button-example.svg" width="320"/>
   <br>
-  In this example shadow and elevation are used as visual cue for interactivity.
+  <sub>
+    In this example shadow and elevation are used as visual cue for interactivity.
+  </sub>
 </div>
 
 <br><br>
