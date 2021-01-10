@@ -115,7 +115,7 @@ for example, is done through keyboard input, so the input element is _Interactiv
 
 <br>
 
-## Toggle Buttons / Tab Bars
+## Toggle Buttons
 
 Toggle buttons are a series of buttons for choosing a single value out of multiple options, each button corresponding to choice of one option.
 
