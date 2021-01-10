@@ -106,6 +106,15 @@ for example, is done through keyboard input, so the input element is _Interactiv
 
 <br>
 
+<div align="center">
+  <img src="/figures/inputs-example.svg" width="512"/>
+  <br>
+  In this example border color (and shadow) is used as visual cue for interactivity.
+</div>
+
+
+<br>
+
 ## Toggle Buttons / Tab Bars
 
 Toggle buttons are a series of buttons for choosing a single value out of multiple options, each button corresponding to choice of one option.
@@ -114,6 +123,14 @@ Toggle buttons are a series of buttons for choosing a single value out of multip
 
 👉 The button corresponding to the currently selected value **SHOULD** be in either _Standby_ or _Disabled_ states, based on whether the represented
 value is significant enough to be considered part of program state or not.
+
+<br>
+
+<div align="center">
+  <img src="/figures/toggle-button-example.svg" width="320"/>
+  <br>
+  In this example shadow and elevation are used as visual cue for interactivity.
+</div>
 
 <br><br>
 <br><br>
