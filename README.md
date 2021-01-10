@@ -35,10 +35,10 @@ Tactile UX aims to increase usability of interfaces with a combination of intera
 
 <br><br>
 
+<br><br>
+
 <div align="center">
 
-**UP NEXT:** \
-[Degrees of Interactivity](/degrees-of-interactivity.md)
+### 📖 [NEXT: Degrees of Interactivity](/degrees-of-interactivity.md)
 
 </div>
-
