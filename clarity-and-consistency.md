@@ -44,3 +44,12 @@ A particular piece of information is communicated by visual cues in a _consisten
   </sub>
 </div>
 
+
+<br><br><br><br>
+
+<div align="center">
+
+### 📖 [NEXT: Linearity](/linearity.md)
+
+</div>
+
