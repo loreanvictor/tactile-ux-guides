@@ -20,7 +20,9 @@ Tactile UX denotes user experience where state of interactivity of various eleme
 
 ## Overview
 
-Tactile UX aims to increase usability of interfaces with a combination of interactive and non-interactive elements. It helps users quickly understand what can they do with a particular interface and what they might be able to do. This is achieved by defining [five degrees of interactivity](/degrees-of-interactivity.md) that apply to ALL visual elements, and requiring [_consistent_](/clarity-and-consistency.md#consistency), [_clear_](/clarity-and-consistency.md#clarity) and [linear](/linearity.md) visual indicators for each degree of interactivity.
+Tactile UX aims to increase usability of interfaces with a combination of interactive and non-interactive elements. It helps users quickly understand what can they do with a particular interface and what they might be able to do.
+
+The core idea of Tactile UX is the [five degrees of interactivity](/degrees-of-interactivity.md) that apply to ALL visual elements. A particular design (or design system) is _tactile_ (or provides _tactile UX_) if it provides [_consistent_](/clarity-and-consistency.md#consistency), [_clear_](/clarity-and-consistency.md#clarity) and [linear](/linearity.md) visual indicators for each of these degrees of interactivity.
 
 <br>
 

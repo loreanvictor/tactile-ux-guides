@@ -40,7 +40,7 @@ A particular piece of information is communicated by visual cues in a _consisten
   <img src="/figures/consistency-example.svg" width="640"/>
   <br>
   <sub>
-    Example: buttons are interactive because of their background while inputs are interactive because of the line under them. This leads to increased inconsistency.
+    Example: inconsistent visual cues are used for interactivity of buttons (background) vs inputs (underline).
   </sub>
 </div>
 

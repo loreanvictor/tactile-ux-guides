@@ -85,7 +85,7 @@ it to have more interactions again.
 
 
 <div align="center">
-  <img src="/figures/buttons-example.svg" width="640"/>
+  <img src="/figures/buttons-example.svg" width="360"/>
   <br>
   <sub>
     In this example magnification is used as the visual cue for interactivity.
