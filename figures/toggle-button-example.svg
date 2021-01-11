@@ -16,7 +16,7 @@
         </filter>
     </defs>
     <g id="toggle-button-example" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#E0E0E0" x="0" y="0" width="384" height="136" rx="8"></rect>
+        <rect id="Rectangle" fill="#EEEEEE" x="0" y="0" width="384" height="136" rx="8"></rect>
         <g id="Group-Copy-2" transform="translate(34.000000, 32.000000)">
             <rect id="shade" fill-opacity="0.5" fill="#000000" opacity="0.35" filter="url(#filter-1)" x="0" y="8" width="64" height="64" rx="8"></rect>
             <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="64" height="64" rx="8"></rect>
