@@ -32,7 +32,7 @@ A visual signal is _clear_ if it is easily noticeable in a quick glance. A clear
 
 # Consistency
 
-A particular piece of information is communicated by visual cues in a _consistent_ manner, when the very same design rules are utilized to communicate said information. For example, interactive elements are communicated consistently by a _blue left border_ when all interactive elements have a blue left border and other visual element that has a blue left border is also interactive.
+A particular piece of information is communicated by visual cues in a _consistent_ manner, when the very same design rules are utilized to communicate said information. For example, interactive elements are communicated consistently by a _blue left border_ when all interactive elements have a blue left border and other visual elements that have a blue left border are also interactive.
 
 <br>
 
